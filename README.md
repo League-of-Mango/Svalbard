@@ -1,2 +1,3 @@
 # Svalbard
-A repository containing various miscellaneous or supplementary files.
+
+This reposistory contains various miscellaneous or supplemental files for various games, notably Minecraft.
