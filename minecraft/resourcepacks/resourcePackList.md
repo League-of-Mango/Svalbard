@@ -2,7 +2,7 @@
 
 This is a description of every Minecraft resource pack in this repository.
 
-## Verity
+## [Verity](https://github.com/League-of-Mango/Svalbard/raw/main/minecraft/resourcepacks/Verity.zip)
 
 **Minecraft Version 1.18.2**
 
@@ -18,7 +18,7 @@ The tweaks that Verity makes include:
 * Telescoping Piston Heads
 * Colored Ping Indicators
 
-## Pokémon Diamond and Pearl Music Pack
+## [Pokémon Diamond and Pearl Music Pack](https://github.com/League-of-Mango/Svalbard/blob/main/minecraft/resourcepacks/Diamond%20and%20Pearl%20Music.zip)
 
 Changes some in-game music to remastered versions of songs from Pokémon Diamond and Pearl.
 
